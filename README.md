@@ -1,8 +1,5 @@
-# JsTutorial
+# CSharp Programming
 #  Day 1 Assignment
-   1.   Write a program that calculate the area of Circle?
-   2.   Write a program that calculate the area of Square?
-   3.   Write a program that calculate the area of Rectangle?
-   4.   Write a program that calculate the US dollar conversion to Pakistan Rupee?
-   5.   **Challenge – Temperature conversion** 
-  
+   1.   Write a program to display user’s complete mailing address. Accept user’s name, city, street pin and house no. and store it in a variable and display it.
+   2.  Write a program to display student information. Accept Student’s name, Roll no, Age, class, and university name and display it on console.
+
