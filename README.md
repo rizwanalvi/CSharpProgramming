@@ -111,7 +111,7 @@ An additional surcharge of 20% is added to the bill
 # ABSTRACTION
 ### Abstraction in C# is the process to hide the internal details and showing only the functionality. Data abstraction is the process of hiding certain details and showing only essential information to the user. The keyword abstract is used before the class or method to declare the class or method as abstract.
 ###   IMPLEMENTATION
-####  ABSTRACT CLASS
+####  ABSTRACT CLASS 
 ####  INTERFACE
 ##### Interface in C# is a blueprint of a class. It is like abstract class because all the methods which are declared inside the interface are abstract methods. It cannot have method body and cannot be instantiated. It is used to achieve multiple inheritance which can't be achieved by class.
 
