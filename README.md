@@ -87,5 +87,7 @@ An additional surcharge of 20% is added to the bill
 35.	Write a C# program to print all Strong numbers between 1 to n.
 36.	Write a C# program to print Fibonacci series up to n terms.
 
+#  CLASS TYPES
+## INSTANCE CLASS
 
 
