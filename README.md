@@ -90,5 +90,24 @@ An additional surcharge of 20% is added to the bill
 #  CLASS TYPES
 ## INSTANCE CLASS
 ### An instance class in C# is a class that cannot be instantiated. An instance is a unique copy of a Class that representing an Object.
+#  STATIC CLASS
+### A static class in C# is a class that cannot be instantiated. A static class can only contain static data members including static methods, static constructors, and static properties. In C#, a static class is a class that cannot be instantiated.
+# SEALED CLASS
+### Sealed classes are used to restrict the users from inheriting the class. A class can be sealed by using the sealed keyword.
+#  ABSTRACT CLASS
+### An abstract class is a special type of class that cannot be instantiated. An abstract class is designed to be inherited by subclasses that either implement or override its methods.
+#  OBJECT ORIENTED CONCEPTS
+## INHERITANCE
+###   It is the mechanism in C# by which one class is allowed to inherit the features (fields and methods) of another class.
+## POLYMORPHISM
+###   Polymorphism is a Greek word, meaning "one name many forms". In other words, one object has many forms or has one name with multiple functionalities. Polymorphism provides the ability to a class to have multiple implementations with the same name.
+####  METHOD OVERLODAING
+######   Method overloading means writing two or more methods in the same class by using the same method name, but the passing parameters are different.
+##### METHOD OVERRIDDING
+##### Method overriding is one of the ways by which C# achieve Run Time Polymorphism (Dynamic Polymorphism). An override method is a new implementation of a member that is inherited from a base class.
+#  ENCAPSULATION
+## In c#, Encapsulation OR data hiding is a process of binding the data members and member functions into a single unit. It collects data members and member functions into a single unit called class. The purpose of encapsulation is to prevent alteration of data from outside. This data can only be accessed by getter functions of the class. A fully encapsulated class has getter and setter functions that are used to read and write data. This class does not allow data access directly. 	
+# ABSTRACTION
+## Abstraction in C# is the process to hide the internal details and showing only the functionality. Data abstraction is the process of hiding certain details and showing only essential information to the user. The keyword abstract is used before the class or method to declare the class or method as abstract.
 
 
