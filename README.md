@@ -107,9 +107,9 @@ An additional surcharge of 20% is added to the bill
 ##### METHOD OVERRIDDING
 ##### Method overriding is one of the ways by which C# achieve Run Time Polymorphism (Dynamic Polymorphism). An override method is a new implementation of a member that is inherited from a base class.
 #  ENCAPSULATION
-## In c#, Encapsulation OR data hiding is a process of binding the data members and member functions into a single unit. It collects data members and member functions into a single unit called class. The purpose of encapsulation is to prevent alteration of data from outside. This data can only be accessed by getter functions of the class. A fully encapsulated class has getter and setter functions that are used to read and write data. This class does not allow data access directly. 	
+### In c#, Encapsulation OR data hiding is a process of binding the data members and member functions into a single unit. It collects data members and member functions into a single unit called class. The purpose of encapsulation is to prevent alteration of data from outside. This data can only be accessed by getter functions of the class. A fully encapsulated class has getter and setter functions that are used to read and write data. This class does not allow data access directly. 	
 # ABSTRACTION
-## Abstraction in C# is the process to hide the internal details and showing only the functionality. Data abstraction is the process of hiding certain details and showing only essential information to the user. The keyword abstract is used before the class or method to declare the class or method as abstract.
+### Abstraction in C# is the process to hide the internal details and showing only the functionality. Data abstraction is the process of hiding certain details and showing only essential information to the user. The keyword abstract is used before the class or method to declare the class or method as abstract.
 ###   IMPLEMENTATION
 ####  ABSTRACT CLASS
 ####  INTERFACE
