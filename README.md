@@ -101,6 +101,7 @@ An additional surcharge of 20% is added to the bill
 ###   It is the mechanism in C# by which one class is allowed to inherit the features (fields and methods) of another class.
 ## POLYMORPHISM
 ###   Polymorphism is a Greek word, meaning "one name many forms". In other words, one object has many forms or has one name with multiple functionalities. Polymorphism provides the ability to a class to have multiple implementations with the same name.
+###   IMPLEMENTATION
 ####  METHOD OVERLODAING
 ######   Method overloading means writing two or more methods in the same class by using the same method name, but the passing parameters are different.
 ##### METHOD OVERRIDDING
@@ -109,5 +110,8 @@ An additional surcharge of 20% is added to the bill
 ## In c#, Encapsulation OR data hiding is a process of binding the data members and member functions into a single unit. It collects data members and member functions into a single unit called class. The purpose of encapsulation is to prevent alteration of data from outside. This data can only be accessed by getter functions of the class. A fully encapsulated class has getter and setter functions that are used to read and write data. This class does not allow data access directly. 	
 # ABSTRACTION
 ## Abstraction in C# is the process to hide the internal details and showing only the functionality. Data abstraction is the process of hiding certain details and showing only essential information to the user. The keyword abstract is used before the class or method to declare the class or method as abstract.
+###   IMPLEMENTATION
+####  ABSTRACT CLASS
+####  INTERFACE
 
 
