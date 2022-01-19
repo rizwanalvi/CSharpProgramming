@@ -89,5 +89,6 @@ An additional surcharge of 20% is added to the bill
 
 #  CLASS TYPES
 ## INSTANCE CLASS
+### An instance class in C# is a class that cannot be instantiated. An instance is a unique copy of a Class that representing an Object.
 
 
