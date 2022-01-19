@@ -89,7 +89,7 @@ An additional surcharge of 20% is added to the bill
 
 #  CLASS TYPES
 ## INSTANCE CLASS
-### An instance class in C# is a class that cannot be instantiated. An instance is a unique copy of a Class that representing an Object.
+### An instance class in C# is a class that can be instantiated. An instance is a unique copy of a Class that representing an Object.
 #  STATIC CLASS
 ### A static class in C# is a class that cannot be instantiated. A static class can only contain static data members including static methods, static constructors, and static properties. In C#, a static class is a class that cannot be instantiated.
 # SEALED CLASS
