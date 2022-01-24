@@ -1,0 +1,7 @@
+C:\Users\rizwan\source\repos\ConAppCollection\ConCustomList\bin\Debug\ConCustomList.exe.config
+C:\Users\rizwan\source\repos\ConAppCollection\ConCustomList\bin\Debug\ConCustomList.exe
+C:\Users\rizwan\source\repos\ConAppCollection\ConCustomList\bin\Debug\ConCustomList.pdb
+C:\Users\rizwan\source\repos\ConAppCollection\ConCustomList\obj\Debug\ConCustomList.csprojAssemblyReference.cache
+C:\Users\rizwan\source\repos\ConAppCollection\ConCustomList\obj\Debug\ConCustomList.csproj.CoreCompileInputs.cache
+C:\Users\rizwan\source\repos\ConAppCollection\ConCustomList\obj\Debug\ConCustomList.exe
+C:\Users\rizwan\source\repos\ConAppCollection\ConCustomList\obj\Debug\ConCustomList.pdb
