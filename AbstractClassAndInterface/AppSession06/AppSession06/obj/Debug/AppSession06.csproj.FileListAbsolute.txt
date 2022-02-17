@@ -1,0 +1,7 @@
+C:\Users\rizwan\source\repos\AppSession06\AppSession06\bin\Debug\AppSession06.exe.config
+C:\Users\rizwan\source\repos\AppSession06\AppSession06\bin\Debug\AppSession06.exe
+C:\Users\rizwan\source\repos\AppSession06\AppSession06\bin\Debug\AppSession06.pdb
+C:\Users\rizwan\source\repos\AppSession06\AppSession06\obj\Debug\AppSession06.csprojAssemblyReference.cache
+C:\Users\rizwan\source\repos\AppSession06\AppSession06\obj\Debug\AppSession06.csproj.CoreCompileInputs.cache
+C:\Users\rizwan\source\repos\AppSession06\AppSession06\obj\Debug\AppSession06.exe
+C:\Users\rizwan\source\repos\AppSession06\AppSession06\obj\Debug\AppSession06.pdb
