@@ -1,0 +1,15 @@
+C:\Users\rizwan\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\rizwan\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\rizwan\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\rizwan\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\rizwan\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\rizwan\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\rizwan\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\rizwan\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\rizwan\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\rizwan\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\EntityFramework.dll
+C:\Users\rizwan\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rizwan\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\EntityFramework.xml
+C:\Users\rizwan\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rizwan\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CopyComplete
+C:\Users\rizwan\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
